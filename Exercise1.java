@@ -6,8 +6,6 @@ public class Exercise1 {
     {
         
         
-            System.out.println("Number is zero");
-        
+            System.out.println("Number is zero");  
     }
-
 }
